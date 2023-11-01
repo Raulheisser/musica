@@ -1,0 +1,22 @@
+.a{
+    display: flex;
+    align-items: center;
+}
+img{
+    border-radius: 30%;
+}
+
+body {  
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+	}
+
+.myBox { 
+	background: url('myimage.png') repeat-x; 
+	}
+
+.btn-primary {
+margin-left: 530px;
+width: 200px;
+}
